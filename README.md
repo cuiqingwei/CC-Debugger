@@ -27,7 +27,7 @@ Debugger for CC SoC
 
 # 产品原理图
 
-![](https://github.com/cuiqingwei/CC-Debugger/blob/master/hardware/CC_SOC%20DEBUGGER%20v1.02/Documents/CC_SOC%20DEBUGGER.png)
+![](https://github.com/cuiqingwei/CC-Debugger/blob/master/hardware/CC_SOC%20DEBUGGER%20v1.02/Documents/CC_SOC_DEBUGGER.png)
 
 # 产品固件
 
